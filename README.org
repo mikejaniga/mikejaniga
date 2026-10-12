@@ -1,0 +1,59 @@
+* Engineer & Practitioner — Data Science, AI/ML, Topological Data Analysis
+
+I am an Engineer and Practitioner operating at the intersection of *physical
+structures*, *advanced data science*, and *AI/ML engineering*. I specialize in
+delivering end-to-end ML/AI systems — bridging the gap between deep mathematical
+research, model training and fine-tuning, and robust software deployment.
+
+With a background in structural analysis in engineering, I bring a unique
+*domain-first* approach to data. I don't just apply algorithms; I understand the
+physical, spatial, and structural nature of the data I work with.
+
+I build systems that are mathematically sound, containerized for the cloud, and
+deeply aligned with real-world engineering and business constraints.
+
+* Current Focus — [[https://www.manifoldlabs.eu][Manifold Labs]]
+
+*Founder & Principal Architect* · Wrocław, Poland · since Jan. 2026
+
+Manifold Labs is a deep-tech engineering venture transforming *Structural Health
+Monitoring (SHM)* for critical infrastructure (dams, bridges, tunnels) by
+combining *Topological Data Analysis (TDA)* with fault-tolerant edge telemetry.
+Deployed purely as a non-invasive software overlay on top of existing
+SCADA/cloud repositories, the platform detects subtle, nonlinear failure
+mechanisms before physical thresholds are breached.
+
+*What I design and build*
+
+- *Dual-Track TDA* — core analytical architecture using persistent homology (H₀,
+  H₁) and Banach space projections (Lᵖ persistence landscapes) to detect
+  dynamical bifurcations and Critical Slowing Down in geotechnical media.
+- *Cross-Verification Engine* — deterministic decision engine decoupling sensor
+  degradation and cable noise (Track A: Sensor Health) from real pore-pressure
+  anomalies (Track B: Structural Behavior), slashing false positive rates.
+- *Heterogeneous Sensor Fusion* — mathematical foundation for multi-sensor
+  state-space analysis, integrating piezometers, inclinometers, and drainage
+  seepage data into a unified, sensor-agnostic geometry.
+- *End-to-End System Architecture* — core Python mathematical engine integrated
+  with fault-tolerant, telecommunications-grade Elixir/BEAM edge telemetry.
+
+*Focus:* Topological Data Analysis, Structural Health Monitoring, Geotechnical
+Engineering, Early Warning Systems, Critical Infrastructure Safety
+
+* Core Areas of Expertise
+
+- *Production-Grade Analytics* — developing and refactoring high-performance
+  codebases in Python and R, with a strong focus on clean architecture, unit
+  testing, and long-term maintainability.
+- *Systems Architecture* — modular, scalable API-based services and analytical
+  engines. CI/CD pipelines, containerization (Docker/Podman), and code stability
+  in complex, hybrid environments.
+- *Domain-Driven Engineering* — translating complex mathematical and statistical
+  requirements into production-ready software components.
+- *Engineering Standards* — clean, modular code, reproducible research
+  workflows, and automated testing across cross-disciplinary teams.
+
+* Contact
+
+- 🌐 [[https://www.manifoldlabs.eu][manifoldlabs.eu]]
+- ✉️ [[mailto:contact@manifoldlabs.eu][contact@manifoldlabs.eu]]
